@@ -1,0 +1,16 @@
+.head{background-color: red; height: 100px; text-align: center;}
+.list{display: flex;}
+.list a{padding: 30px;}
+label{padding: 20px 30px ; font-weight: bold;}
+.pad{padding: 50px 50px 50px 50px;}
+.bg{background-color: cornflowerblue;}
+.bg-color{background-color: green;}
+.page{width: 100%;background-color: rgb(245, 245, 243);height: 100%;}
+.heading{text-align: center;font-weight: bold; padding-top: 30px;}
+.title{padding: 10px 0px 10px 0px; font-weight: 100;color: gray;}
+.list-2{border-bottom: 1px solid grey;margin: 25px 70px 0px 70px;}
+.list-2 a { padding: 25px; color: rgb(65, 64, 64); font-weight: bold;}
+.p-body{width: 100%;}   
+.date{margin: 25px 0px 0px 70px; color: rgb(80, 80, 79);width: 60%;height: auto;}
+.date img{width: 80% ;height: auto;}
+.body-left{width:30%;}
